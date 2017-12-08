@@ -115,5 +115,5 @@
     <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
     <script type="text/javascript" src="js/jquery.isotope.min.js"></script>
     <script type="text/javascript" src="js/owl.carousel.js"></script>
-    <script type="text/javascript" src="js/main.js"></script><%-- //text--%>
+    <script type="text/javascript" src="js/main.js"></script>
 </asp:Content>
